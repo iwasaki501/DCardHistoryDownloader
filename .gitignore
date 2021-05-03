@@ -1,0 +1,7 @@
+/stash
+cookie.txt
+chromedriver.exe
+*.pyc
+settings.json
+d_credentials.py
+/csv
